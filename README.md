@@ -1,8 +1,7 @@
 # ✨👋 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐀𝐫𝐢𝐧 𝐂𝐡𝐚𝐧𝐝 𝐑𝐚𝐦𝐨𝐥𝐚! 🚀🧠
 
 - 🎓 **Computer Science Graduate** with a passion for solving real-world problems using tech
-- 💡 Strong interest in **Artificial Intelligence, Machine Learning, and Computer Vision**
-- 🐳 Learning and exploring **DevOps** with Docker, Jenkins, and AWS Free Tier
+- 🐳 Learning and exploring **DevOps** with Docker, Jenkins, and AWS
 - 🎯 Always up for building innovative projects that mix creativity and code
 - 🌱 Believer in **continuous learning**, teamwork, and using tech for good
 
