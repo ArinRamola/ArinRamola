@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Arin</h1>
-  <p><strong>Junior Cloud & DevOps Engineer | AWS • Python (Boto3) • Terraform • Linux • IAM</strong></p>
+  <p><strong>Junior Cloud & DevOps Engineer | AWS • Python (Boto3) • Linux • IAM</strong></p>
 
   <!-- Social & Contact Badges -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
@@ -49,20 +49,18 @@ Junior Cloud & DevOps Engineer with 1+ year of enterprise IT experience at Cogni
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Achievements
 
 <div align="center">
-  <!-- Dynamic Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArinRamola&theme=tokyo-night&hide_border=true&area=true" alt="Arin's Activity Graph" />
+  <!-- GitHub Achievements / Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ArinRamola&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Arin's Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ArinRamola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arin's GitHub Stats" />
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ArinRamola&theme=tokyonight&hide_border=true" alt="Arin's GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ArinRamola&theme=tokyonight&hide_border=true&card_width=450" alt="Arin's GitHub Streak" />
 </div>
 
 ---
