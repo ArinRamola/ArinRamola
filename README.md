@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi 👋, I'm [Your Name]</h1>
-  <p><strong>Junior Cloud & DevOps Engineer | AWS • Python (Boto3) • Linux • IAM</strong></p>
+  <h1>Hi 👋, I'm Arin</h1>
+  <p><strong>Junior Cloud & DevOps Engineer | AWS • Python (Boto3)• Terraform • Linux • IAM</strong></p>
 
   <!-- Social & Contact Badges -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
