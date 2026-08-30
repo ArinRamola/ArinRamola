@@ -51,10 +51,6 @@ Junior Cloud & DevOps Engineer with 1+ year of enterprise IT experience at Cogni
 
 ### 📊 GitHub Activity & Achievements
 
-<div align="center">
-  <!-- GitHub Achievements / Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ArinRamola&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Arin's Trophies" />
-</div>
 
 <br/>
 
