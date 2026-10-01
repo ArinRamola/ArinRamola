@@ -3,13 +3,13 @@
   <p><strong>Junior Cloud & DevOps Engineer | AWS • Python (Boto3) • Linux • IAM</strong></p>
 
   <!-- Social & Contact Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+  <a href="https://www.linkedin.com/in/aerincr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:arinramola@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://x.com/YOUR_X_HANDLE" target="_blank">
+  <a href="https://x.com/AerinCR" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </div>
